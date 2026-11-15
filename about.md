@@ -1,3 +1,5 @@
-# Template Mod
+# Hello Button
 
-Edit about.md to change this
+Adds a small button to the main menu. Tap it and a popup says **Hello!**
+
+That's all it does.
